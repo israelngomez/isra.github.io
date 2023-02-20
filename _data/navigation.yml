@@ -1,0 +1,17 @@
+main:
+  - title: "Index"
+    url: /
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+  - title: "Posts"
+    url: /posts/
+  - title: "members"
+    url: /members/
+  - title: "Tags"
+    url: /tags/
+  
+  
+  

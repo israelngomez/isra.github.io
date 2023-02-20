@@ -1,14 +1,15 @@
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-remote-theme 
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
 
-title: JEKYLL TEST
+
+title: JEKYLL WEBPAGE
 
 defaults:
   - scope:
@@ -34,13 +35,13 @@ collections:
 
 
 # número de posts por página
-paginate: 2
+paginate: 5
 paginate_path: /blog/page:num/
 
 
 
 minima:
-  skin: dark
+  skin: neon
 
-name: Test
+name: peter
   
