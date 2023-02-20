@@ -1,6 +1,6 @@
 ---
 title: members
-permalink: /members
+
 
 ---
 <style>
