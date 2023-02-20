@@ -44,7 +44,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image]({{ site.url }}/test/index.html)
 
-[Link](url) and ![Image]({{ site.url }}/assets/img/logo-Jekyll.png)
+[Link](url) and ![Image]({{ site.url }}isra.github.io/assets/img/logo-Jekyll.png)
 ```
 
 ![Image](/assets/img/logo-jekyll.png)
