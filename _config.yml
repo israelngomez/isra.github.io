@@ -29,8 +29,9 @@ defaults:
       related: true
 
 collections:
-  members:
+  recipes:
     output: true
+    permalink: /recipes/:path/
 
 
 
