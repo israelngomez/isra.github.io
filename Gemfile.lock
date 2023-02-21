@@ -264,7 +264,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-paginate
   jekyll-remote-theme
-  jekyll-theme-leaf
+  jekyll-theme-leaf (~> 0.1.0)
   wdm (~> 0.1.1)
   webrick (~> 1.8)
 
