@@ -4,15 +4,19 @@ main:
 
   - title: "Posts here"
     url: /posts/
+
   - title: "members"
     url: /members/
+
   - title: "estilos"
     url: /estilos/
  
- - title: "About"
+  - title: "About"
     url: /about/
-  - title: "estilos"
-    url: /estilos/
+  - title: "menu"
+    url: /menu/
+ 
+
   
   
   
