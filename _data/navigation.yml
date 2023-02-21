@@ -1,17 +1,18 @@
 main:
   - title: "Index"
     url: /
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-  - title: "Posts"
+
+  - title: "Posts here"
     url: /posts/
   - title: "members"
     url: /members/
-  - title: "Tags"
-    url: /tags/
+  - title: "estilos"
+    url: /estilos/
+ 
+ - title: "About"
+    url: /about/
+  - title: "estilos"
+    url: /estilos/
   
   
   

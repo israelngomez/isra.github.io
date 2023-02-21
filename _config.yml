@@ -1,15 +1,17 @@
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: jekyll-theme-leaf
+
 
 plugins:
   - jekyll-remote-theme 
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
 
 
-title: JEKYLL WEBPAGE
+
+title: Isra blog
 
 defaults:
   - scope:
@@ -41,8 +43,6 @@ paginate_path: /blog/page:num/
 
 
 
-minima:
-  skin: neon
 
-name: peter
+name: isra @copryright reserved 2023
   

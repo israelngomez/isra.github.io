@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Blog
+permalink: /pagination
+
+layout: page
 ---
 
 <div class="posts">

@@ -1,14 +1,14 @@
 ---
-title: Index
+title: index
 permalink: /
-
+layouts : home
 ---
 
 
 
 
 ## Welcome to {{site.title}} {{page.title}} 
-# Paginacion de posts
+
 
 
 <ul>
