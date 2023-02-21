@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: jekyll-theme-leaf
+remote_theme: jekyll-theme-leaf
 
 
 plugins:
